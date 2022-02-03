@@ -8,12 +8,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoIwata&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 自己紹介
+# 自己紹介
 - 氏名: 岩田陽也 Yoya IWATA
 - 学歴: 駒沢大学卒/広島工業大学院修了
 - 生年月日: 1992/12/03
 
-## 趣味
+# 趣味
 ### 映画鑑賞
 元々Amazonプライムでいろいろ見ていましたが東京に来てからは映画館によく言ってます。特に新文芸坐が好きです。
 去年は15回ほど行きました。
