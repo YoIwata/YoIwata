@@ -1,16 +1,19 @@
-### Hi there 👋
+![picture_pc_d5f50582e20dcf4a13e064925512b690](https://user-images.githubusercontent.com/28820628/152374088-ba365f12-b28f-4e44-97a1-82b54ca2c4e0.jpg)
 
-<!--
-**YoIwata/YoIwata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Githubでの活動内容
+**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoIwata
+)](https://github.com/anuraghazra/github-readme-stats)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoIwata&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 自己紹介
+- 氏名: 岩田陽也 Yoya IWATA
+- 学歴: 駒沢大学卒/広島工業大学院修了
+- 生年月日: 1992/12/03
+
+## 趣味
+### 映画鑑賞
+元々Amazonプライムでいろいろ見ていましたが東京に来てからは映画館によく言ってます。特に新文芸坐が好きです。
+去年は15回ほど行きました。
